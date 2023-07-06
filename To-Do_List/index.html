@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>To-Do List</title>
+  <center>
+  <h1>TO-DO LIST</h1>
+</center>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="bootstrap.min.css" >
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body >
+<div class="container-fluid">
+  <div class="container">
+    <div class="mx-auto mt-5" style="max-width: 700px;">
+      <div class="input-group mb-3">
+        <input type="text" class="form-control" placeholder="Enter Topic Name" aria-label="Recipient's username" id="username" aria-describedby="button-addon2">
+        <button class="btn text-white btn-info" type="button" id="addUser">Add </button>
+      </div>
+      <div class="display">
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col" style="color: rgb(241, 192, 31)">SL No.</th>
+              <th scope="col" style="color: rgb(241, 192, 31)">Topic Name</th>
+              <th scope="col" style="color: rgb(241, 192, 31)">Actions</th>
+            </tr>
+          </thead>
+          <tbody id="records">
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
