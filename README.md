@@ -1,6 +1,7 @@
 # To-Do List
 
-##### To-Do List using HTML, CSS & JavaScript.
+##### To-Do List using HTML, CSS & JavaScript
+##### We can Create, Edit & Delete tasks
 
 # Output
 
