@@ -5,4 +5,4 @@
 
 # Output
 
-![Screenshot (174)](https://github.com/Sourodeep2001/PRODIGY_WD_02/assets/57056047/15258442-e3d2-4c6b-aa2c-2db29311797d)
+![Screenshot (174)](https://github.com/sourodeep-paul/PRODIGY_WD_02/assets/57056047/fc0ac9dd-a204-4b78-8ae5-178b27955714)
